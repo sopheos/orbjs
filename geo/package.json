@@ -1,0 +1,8 @@
+{
+  "name": "@sopheos/orbjs/geo",
+  "types": "../dist/types/geo/index.d.ts",
+  "main": "../dist/cjs/geo/index.js",
+  "module": "../dist/esm/geo/index.js",
+  "es2015": "../dist/esm/geo/index.js",
+  "sideEffects": false
+}

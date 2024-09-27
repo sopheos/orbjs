@@ -1,0 +1,8 @@
+{
+  "name": "@sopheos/orbjs/image",
+  "types": "../dist/types/image/index.d.ts",
+  "main": "../dist/cjs/image/index.js",
+  "module": "../dist/esm/image/index.js",
+  "es2015": "../dist/esm/image/index.js",
+  "sideEffects": false
+}

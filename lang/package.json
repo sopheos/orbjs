@@ -1,0 +1,8 @@
+{
+  "name": "@sopheos/orbjs/lang",
+  "types": "../dist/types/lang/index.d.ts",
+  "main": "../dist/cjs/lang/index.js",
+  "module": "../dist/esm/lang/index.js",
+  "es2015": "../dist/esm/lang/index.js",
+  "sideEffects": false
+}

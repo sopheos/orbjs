@@ -1,0 +1,8 @@
+{
+  "name": "@sopheos/orbjs/upload",
+  "types": "../dist/types/upload/index.d.ts",
+  "main": "../dist/cjs/upload/index.js",
+  "module": "../dist/esm/upload/index.js",
+  "es2015": "../dist/esm/upload/index.js",
+  "sideEffects": false
+}

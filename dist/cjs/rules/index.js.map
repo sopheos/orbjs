@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../src/rules/index.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA","sourcesContent":["export { removeWhitespaces } from \"./whitespaces\"\n"],"file":"index.js"}

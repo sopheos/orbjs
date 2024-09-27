@@ -1,0 +1,8 @@
+{
+  "name": "@sopheos/orbjs/format_helpers",
+  "types": "../dist/types/format_helpers/index.d.ts",
+  "main": "../dist/cjs/format_helpers/index.js",
+  "module": "../dist/esm/format_helpers/index.js",
+  "es2015": "../dist/esm/format_helpers/index.js",
+  "sideEffects": false
+}

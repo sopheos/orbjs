@@ -1,0 +1,43 @@
+import { Aggregation as _Aggregation } from './aggregation';
+import { Bool as _Bool } from './bool';
+import { Exists as _Exists } from './exists';
+import { Fuzzy as _Fuzzy } from './fuzzy';
+import { GeoDistance as _GeoDistance } from './geodistance';
+import { Ids as _Ids } from './ids';
+import { Match as _Match } from './match';
+import { MatchAll as _MatchAll } from './match_all';
+import { Query as _Query } from './query';
+import { Range as _Range } from './range';
+import { Prefix as _Prefix } from './prefix';
+import { Raw as _Raw } from './raw';
+import { Regex as _Regex } from './regex';
+import { Sort as _Sort } from './sort';
+import { SortGeo as _SortGeo } from './sort_geo';
+import { Term as _Term } from './term';
+import { Terms as _Terms } from './terms';
+import { Type as _Type } from './type';
+import { Wildcard as _Wildcard } from './wildcard';
+export var ES;
+
+(function (_ES) {
+  var Aggregation = _ES.Aggregation = _Aggregation;
+  var Bool = _ES.Bool = _Bool;
+  var Exists = _ES.Exists = _Exists;
+  var Fuzzy = _ES.Fuzzy = _Fuzzy;
+  var GeoDistance = _ES.GeoDistance = _GeoDistance;
+  var Ids = _ES.Ids = _Ids;
+  var Match = _ES.Match = _Match;
+  var MatchAll = _ES.MatchAll = _MatchAll;
+  var Prefix = _ES.Prefix = _Prefix;
+  var Query = _ES.Query = _Query;
+  var Range = _ES.Range = _Range;
+  var Raw = _ES.Raw = _Raw;
+  var Regex = _ES.Regex = _Regex;
+  var Sort = _ES.Sort = _Sort;
+  var SortGeo = _ES.SortGeo = _SortGeo;
+  var Term = _ES.Term = _Term;
+  var Terms = _ES.Terms = _Terms;
+  var Type = _ES.Type = _Type;
+  var Wildcard = _ES.Wildcard = _Wildcard;
+})(ES || (ES = {}));
+//# sourceMappingURL=index.js.map

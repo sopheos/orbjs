@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../src/lang/index.ts"],"names":["generic","errors"],"mappings":"AAAA,SAASA,OAAT,QAAwB,WAAxB;AACA,SAASC,MAAT,QAAuB,UAAvB","sourcesContent":["export { generic } from './generic'\nexport { errors } from './errors'\n"],"file":"index.js"}

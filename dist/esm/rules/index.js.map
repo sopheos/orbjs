@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../src/rules/index.ts"],"names":["removeWhitespaces"],"mappings":"AAAA,SAASA,iBAAT,QAAkC,eAAlC","sourcesContent":["export { removeWhitespaces } from \"./whitespaces\"\n"],"file":"index.js"}

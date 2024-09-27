@@ -1,0 +1,8 @@
+{
+  "name": "@sopheos/orbjs/rules",
+  "types": "../dist/types/rules/index.d.ts",
+  "main": "../dist/cjs/rules/index.js",
+  "module": "../dist/esm/rules/index.js",
+  "es2015": "../dist/esm/rules/index.js",
+  "sideEffects": false
+}

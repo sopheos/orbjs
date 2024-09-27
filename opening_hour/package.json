@@ -1,0 +1,8 @@
+{
+  "name": "@sopheos/orbjs/opening_hour",
+  "types": "../dist/types/opening_hour/index.d.ts",
+  "main": "../dist/cjs/opening_hour/index.js",
+  "module": "../dist/esm/opening_hour/index.js",
+  "es2015": "../dist/esm/opening_hour/index.js",
+  "sideEffects": false
+}
